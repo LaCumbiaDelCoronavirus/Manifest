@@ -26,4 +26,4 @@ Example: [Crowbar sprite folder's included metadata file](https://github.com/LaC
 
 ## Submodule license
 All content within the `manifest` submodule of this repository is licensed under the [Apache License 2.0](https://github.com/LaCumbiaDelCoronavirus/Manifest/blob/base/LICENSE.Apache-2.0.txt). <br/>
-Alternatively to the file, see the [web display of Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) or [raw text display of Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
+Alternatively, see the [web display of Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) or [raw text display of Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
