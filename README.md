@@ -19,11 +19,11 @@ Although it doesn't directly apply for SS14, it will teach you better than the s
 All code for the content repository, except for code within the `manifest` submodule of the repository, is licensed under the [MIT license](https://github.com/space-wizards/space-station-14/blob/master/LICENSE.TXT).
 
 ### Assets
-Many assets are licensed under the [CC-BY-SA 3.0 license](http://creativecommons.org/licenses/by-sa/3.0) unless stated otherwise.
+Most assets are licensed under the [CC-BY-SA 3.0 license](http://creativecommons.org/licenses/by-sa/3.0), or stated otherwise.
 
 Assets have their license and the copyright in the metadata file (commonly `meta.json`). <br/>
 Example: [Crowbar sprite folder's included metadata file](https://github.com/LaCumbiaDelCoronavirus/manifest/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
 ## Submodule license
-All content within the `manifest` submodule of this repository is licensed under the [Apache License 2.0](https://github.com/LaCumbiaDelCoronavirus/Manifest/blob/base/LICENSE.Apache-2.0.txt). <br/>
+All content within the `manifest` submodule of this repository is licensed under the [Apache License 2.0](https://github.com/LaCumbiaDelCoronavirus/Manifest/blob/base/LICENSE.Apache-2.0.txt) unless explicitly stated otherwise. <br/>
 Alternatively, see the [web display of Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) or [raw text display of Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
